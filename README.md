@@ -7,3 +7,5 @@ This project analyzes data from the Disease Outbreak Response Agency (DORA), a n
 
 ## Questions: 
 Includes introductory information about the dataset and tasks to be performed for analysis.
+
+.Dashboard Interaction <a href="https://github.com/kalejayeemmanuel/Data-analysis-dashboard.git">View Dashboard</a>
