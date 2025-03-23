@@ -8,4 +8,22 @@ This project analyzes data from the Disease Outbreak Response Agency (DORA), a n
 ## Questions: 
 Includes introductory information about the dataset and tasks to be performed for analysis.
 
-.Dashboard Interaction <a href="https://github.com/kalejayeemmanuel/Data-analysis-dashboard.git">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/kalejayeemmanuel/Data-analysis-dashboard.git">View Dashboard</a>
+
+## Procedure Used in the Analysis:
+
+##Data Cleaning and Preparation:
+I, Checked for missing values and inconsistencies.
+Made sure I Standardized column names for easier processing.
+I was able Analyzed total cases reported by state and area (rural vs. urban).
+I also Investigated age group distribution among cases, Compared case trends against population estimates.
+Then I procced to Visualization and Insights:
+I Generated bar charts and heatmaps to show the spread of disease across states.
+Created age distribution graphs to understand affected demographics.
+
+ ## Conclusion:
+ I Identified high-risk areas and vulnerable age groups.
+Provided insights for public health policy and outbreak response.
+
+## Dashboard
+
