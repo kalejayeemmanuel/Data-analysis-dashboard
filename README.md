@@ -4,3 +4,6 @@ This project analyzes data from the Disease Outbreak Response Agency (DORA), a n
 
 ## Dataset used
 <a href="https://github.com/kalejayeemmanuel/Data-analysis-dashboard/blob/main/Disease%20Outbreak%20Response%20Agency%20-Dataset.xlsx">Dataset</a>
+
+## Questions: 
+Includes introductory information about the dataset and tasks to be performed for analysis.
