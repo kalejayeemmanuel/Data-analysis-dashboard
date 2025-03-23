@@ -1,2 +1,4 @@
-# Data-analysis-dashboard
- I developed a comprehensive project in execel,creating multiples dashboards and  pivot tables to analyse the data. This procces invovled several stages, including data preprocessing, data cleaning, and data visualization 
+Disease Outbreak Response Agency (DORA) Dataset Analysis using ms Excel
+
+This project analyzes data from the Disease Outbreak Response Agency (DORA), a non-governmental organization focused on tracking and responding to disease outbreaks. The dataset provides information on reported cases, age distribution, population estimates, and survey questions related to disease outbreaks.
+
