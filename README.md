@@ -12,7 +12,7 @@ Dashboard Interaction <a href="https://github.com/kalejayeemmanuel/Data-analysis
 
 ## Procedure Used in the Analysis:
 
-##Data Cleaning and Preparation:
+Data Cleaning and Preparation:
 I, Checked for missing values and inconsistencies.
 Made sure I Standardized column names for easier processing.
 I was able Analyzed total cases reported by state and area (rural vs. urban).
@@ -26,4 +26,5 @@ Created age distribution graphs to understand affected demographics.
 Provided insights for public health policy and outbreak response.
 
 ## Dashboard
+
 
