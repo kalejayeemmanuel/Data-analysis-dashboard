@@ -21,10 +21,13 @@ Then I procced to Visualization and Insights:
 I Generated bar charts and heatmaps to show the spread of disease across states.
 Created age distribution graphs to understand affected demographics.
 
- ## Conclusion:
+## Dashboard
+![DASHBOARD dora](https://github.com/user-attachments/assets/7e714b41-b3bd-429d-a871-866546157961)
+
+## Conclusion:
  I Identified high-risk areas and vulnerable age groups.
 Provided insights for public health policy and outbreak response.
 
-## Dashboard
+
 
 
